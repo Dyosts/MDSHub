@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 Fichier modifié en local
-=======
-Fichier modifié en distant
->>>>>>> refs/remotes/origin/main
